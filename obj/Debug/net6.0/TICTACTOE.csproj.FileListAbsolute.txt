@@ -1,0 +1,15 @@
+/Users/harrismorgan/Desktop/TICTACTOE/bin/Debug/net6.0/TICTACTOE
+/Users/harrismorgan/Desktop/TICTACTOE/bin/Debug/net6.0/TICTACTOE.deps.json
+/Users/harrismorgan/Desktop/TICTACTOE/bin/Debug/net6.0/TICTACTOE.runtimeconfig.json
+/Users/harrismorgan/Desktop/TICTACTOE/bin/Debug/net6.0/TICTACTOE.dll
+/Users/harrismorgan/Desktop/TICTACTOE/bin/Debug/net6.0/TICTACTOE.pdb
+/Users/harrismorgan/Desktop/TICTACTOE/obj/Debug/net6.0/TICTACTOE.csproj.AssemblyReference.cache
+/Users/harrismorgan/Desktop/TICTACTOE/obj/Debug/net6.0/TICTACTOE.GeneratedMSBuildEditorConfig.editorconfig
+/Users/harrismorgan/Desktop/TICTACTOE/obj/Debug/net6.0/TICTACTOE.AssemblyInfoInputs.cache
+/Users/harrismorgan/Desktop/TICTACTOE/obj/Debug/net6.0/TICTACTOE.AssemblyInfo.cs
+/Users/harrismorgan/Desktop/TICTACTOE/obj/Debug/net6.0/TICTACTOE.csproj.CoreCompileInputs.cache
+/Users/harrismorgan/Desktop/TICTACTOE/obj/Debug/net6.0/TICTACTOE.dll
+/Users/harrismorgan/Desktop/TICTACTOE/obj/Debug/net6.0/refint/TICTACTOE.dll
+/Users/harrismorgan/Desktop/TICTACTOE/obj/Debug/net6.0/TICTACTOE.pdb
+/Users/harrismorgan/Desktop/TICTACTOE/obj/Debug/net6.0/TICTACTOE.genruntimeconfig.cache
+/Users/harrismorgan/Desktop/TICTACTOE/obj/Debug/net6.0/ref/TICTACTOE.dll
