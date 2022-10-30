@@ -1,4 +1,4 @@
-﻿using System;//Name: Harris kombe
+﻿using System;//Name: Harris
 using System.Threading;
 namespace TIC_TAC_TOE
 {
